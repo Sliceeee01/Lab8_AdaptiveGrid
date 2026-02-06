@@ -5,6 +5,7 @@
     "header header header"
     "sidebar main main"
     "footer footer footer";
+    
     gap: 20px;
     justify-items: center;
     align-items: center;
